@@ -335,18 +335,7 @@ position: relative;
 	text-align: center; 
 
 }
-.plane1{
-	color: #404040;
-}
-.plane1 div.blok{
-	height: 50px;
-}
-.plane1 div.info{
-	margin: 0 auto; 
-}
-.plane1:hover{
-	color: #000;
-}
+
 .icon1{
 	margin: 0 auto; 
 	background: url(../img/give-money.svg);
@@ -358,27 +347,13 @@ position: relative;
 	padding: 20px;
 
 }
-.plane2{
-}
-.plane2:hover{
-	
-}
-.plane2 div.blok{
-	height: 30px;
-}
+
 .icon2{
 	margin: 0 auto;
 	background: url(../img/clock.svg);
 	background-size: cover; 
 	width: 100px;
 	height: 100px; 
-}
-.plane3{
-}
-.plane3:hover{
-}
-.plane3 div.blok{
-	height: 30px;
 }
 .icon3{
 	margin: 0 auto;
